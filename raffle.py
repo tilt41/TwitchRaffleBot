@@ -1,5 +1,7 @@
 import socket,threading,random,os
 
+#Want more hit up tilt at http://www.twitch.tv/tilt41
+
 # Only change these settings
 channelname = 'channel here' #Set the channel name here (No need for # that is done on for you)
 nick = 'botaccountname'  # create an account for your bot on twitch then set you bot name here
