@@ -6,7 +6,7 @@ import socket,threading,random,os
 channelname = 'channel here' #Set the channel name here (No need for # that is done on for you)
 nick = 'botaccountname'  # create an account for your bot on twitch then set you bot name here
 password = 'Your oauth here' #get your bots oath from http://www.twitchapps.com/tmi/
-# Do Not change anything below unless you know wht your doing
+# Do Not change anything below unless you know what your doing
 
 queue = 13 
 channel = '#'+channelname
