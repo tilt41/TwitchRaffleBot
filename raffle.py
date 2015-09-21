@@ -52,7 +52,8 @@ while True:
                 message(user + ' has already entered :)')
             else:
                 rafflesave()
-                message(user + ' has been added to the raffle :)')
-                print rafflelist
+                message(user + ' has been added to the raffle :) '+ str(len(rafflelist)) + ' user(s) have joined the raffle.')
+                print rafflelist 
+                print len(rafflelist), 'user(s) have joined'
     if tilthack.find('!runraffle') != -1:
         run_raffle()
