@@ -6,3 +6,6 @@ Before you start edit lines 4, 5, and 6 with your information
 Once raffle has started your viewers can use !raffle to join the raffle
 
 After you feel enough viewers have joined use !runraffle to choose the winner randomly
+
+
+Tested in python 2.7
